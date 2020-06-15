@@ -1,4 +1,6 @@
-# How to give a review
+# Reviewing a scientific publication
+Best practices on reviewing a scientific publication.
+
 ## Content notes
 Most conferences offer a template containing requirements. Generally it goes as follows:
 
