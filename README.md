@@ -8,3 +8,4 @@ This repository is a collection of professional best practices from personal res
 
 ## Soft skills
 * [Reviewing a scientific publication](feedback/publication_reviewing.md)
+* [Retrospective for One](time_task_management/agile_for_one/retrospective.md)
