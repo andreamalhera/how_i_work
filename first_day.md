@@ -1,4 +1,4 @@
-# First day steps
+# How to set-up for first day steps
 * Set disk password 
 * Set user OS password
 * Get internet connection (if you haven't)
