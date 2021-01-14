@@ -26,8 +26,8 @@
        * Make integration tests pass
    * Collect commit into groups of 5(?) and run all tests locally before pushing
    * Keep an eye on Jenkins CI, should always be green
-   * Small PRs: Group refactored files according to chosen orientation and create a PR for each group. RoT: One PR every (1-2) days.
-   * Deploy PRs step-by-step
-   * Smile :smile: (edited)
+* Small PRs: Group refactored files according to chosen orientation and create a PR for each group. RoT: One PR every (1-2) days.
+* Deploy PRs step-by-step
+* Smile :smile: (edited)
 
 * How to search a file: `sudo find / -name <filename.extension>`
