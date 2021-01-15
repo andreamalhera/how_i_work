@@ -23,7 +23,7 @@
 * `crontab -e` to see how often code is executed 
 
 ## Application as a package
-* checkout [pip install](https://pip.pypa.io/en/stable/reference/pip_install/) `pip install git+ssh://git@$LOCATION`
+* checkout [pip install](https://pip.pypa.io/en/stable/reference/pip_install/) `pip install git+ssh://git@$SOURCE:$PORT/$PATH/$TO/$GIT.git`
 
 ## Tools
 * [Jenkins](https://www.jenkins.io/): Open source automation server
