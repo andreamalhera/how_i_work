@@ -7,5 +7,16 @@ Jumpcut is a macOS clipboard manager that provides Mac users with quick, intuiti
 KeePassX is an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.
 
 ## Bookmarks
-https://regex101.com/
-https://linuxize.com/post/how-to-use-linux-screen/
+* https://regex101.com/
+* https://linuxize.com/post/how-to-use-linux-screen/
+
+## Chrome Extensions
+* Google Calendar Add On 
+* Jsonview
+* CheckerPlusforGmail
+* Google keep
+* Midnight Lizard
+* Super Dark Mode
+* Grammarly
+* Dark Reader
+* Read Aloud
