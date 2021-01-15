@@ -22,8 +22,11 @@
      * Run tests `python $RUN_FILE --env $ENV --use-test True`
 * `crontab -e` to see how often code is executed 
 
+## Application as a package
+* checkout [pip install](https://pip.pypa.io/en/stable/reference/pip_install/) `pip install git+ssh://git@$LOCATION`
+
 ## Tools
 * [Jenkins](https://www.jenkins.io/): Open source automation server
 * [crontab](https://linux.die.net/man/5/crontab): daemon of the general form: "run this command at this time on this date".
   * `crontab -e` to see how often code is executed
- 
+* [pip install](https://pip.pypa.io/en/stable/reference/pip_install/): Install packages from Pypi, VCS urls, local project directories and, local or remote source archives. pip also supports installing from “requirements files”, which provide an easy way to specify a whole environment to be installed.
