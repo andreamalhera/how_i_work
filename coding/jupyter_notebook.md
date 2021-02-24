@@ -2,10 +2,6 @@
 
 * install: `pip install --upgrade pip`
 * `pip install jupyter`
-* For data-engineering notebooks use:
-     * make venv
-     * . venv/bin/activate
-* `source envvars.sh`
-* `start-all.sh`
-* run `./pyspark_jupyter.sh` if you prepared such a script otherwise: `jupyter notebook`
+* If necessary `source envvars.sh`
+* `jupyter notebook`
 (http://jupyter.org/install)
